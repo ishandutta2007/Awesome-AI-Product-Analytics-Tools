@@ -23,19 +23,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Product Analytics)
 
-| Product | Description | Pricing & Free Tier Limits |
-|---------|-------------|----------------------------|
-| **[Agnost AI](https://agnost.ai/)** | AI observability and evaluation platform for monitoring LLM applications in production. | Contact for pricing / No permanent free tier |
-| **[Braintrust](https://www.braintrust.dev/)** | Developer platform for evaluating and improving LLM outputs with human feedback loops. | Usage-based / Free tier up to 50k events/mo |
-| **[Langfuse](https://langfuse.com/)** | Open-source-first LLM observability and tracing platform with detailed analytics. | Pay-as-you-go / Cloud free tier: 50k observations/mo |
-| **[Galileo](https://www.rungalileo.io/)** | Comprehensive LLM evaluation and observability suite for enterprise AI applications. | Enterprise pricing / Free trial available |
-| **[HoneyHive](https://honeyhive.ai/)** | AI application monitoring and evaluation platform with strong focus on quality. | Usage-based / Free tier for early-stage startups |
-| **[Datadog LLM Observability](https://www.datadoghq.com/)** | Enterprise observability platform with dedicated LLM monitoring and tracing. | Add-on/Volume-based / 14-day free trial |
-| **[Voiceflow](https://voiceflow.com/)** | Conversational AI platform with analytics and optimization for voice and chat agents. | Pro starts ~$50/mo / Free Sandbox: 100k AI tokens |
-| **[Observe.AI](https://observe.ai/)** | Contact center AI with conversation intelligence and quality scoring. | Custom Enterprise / No free tier |
-| **[Level AI](https://level.ai/)** | Conversational intelligence platform for customer support analytics. | Custom Enterprise / No free tier |
-| **[Chattermill](https://chattermill.com/)** | Customer feedback analytics platform with AI insights and sentiment analysis. | Custom Enterprise / No free tier |
-| **[Dopt](https://www.dopt.com/)** | Product guidance and feature adoption platform with AI-powered insights. | Starts ~$100/mo / Free tier: up to 1,000 active users |
+| Product | Description | Pricing & Free Tier Limits | Company Size |
+|---------|-------------|----------------------------|--------------|
+| **[Datadog LLM Observability](https://www.datadoghq.com/)** | Enterprise observability platform with dedicated LLM monitoring and tracing. | Add-on/Volume-based / 14-day free trial | $35B+ (Public) |
+| **[Voiceflow](https://voiceflow.com/)** | Conversational AI platform with analytics and optimization for voice and chat agents. | Pro starts ~$50/mo / Free Sandbox: 100k AI tokens | $100M+ Val |
+| **[Observe.AI](https://observe.ai/)** | Contact center AI with conversation intelligence and quality scoring. | Custom Enterprise / No free tier | $100M+ Val |
+| **[Galileo](https://www.rungalileo.io/)** | Comprehensive LLM evaluation and observability suite for enterprise AI applications. | Enterprise pricing / Free trial available | $50M+ Val |
+| **[Langfuse](https://langfuse.com/)** | Open-source-first LLM observability and tracing platform with detailed analytics. | Pay-as-you-go / Cloud free tier: 50k observations/mo | $20M+ Val |
+| **[Braintrust](https://www.braintrust.dev/)** | Developer platform for evaluating and improving LLM outputs with human feedback loops. | Usage-based / Free tier up to 50k events/mo | $20M+ Val |
+| **[HoneyHive](https://honeyhive.ai/)** | AI application monitoring and evaluation platform with strong focus on quality. | Usage-based / Free tier for early-stage startups | $15M+ Val |
+| **[Level AI](https://level.ai/)** | Conversational intelligence platform for customer support analytics. | Custom Enterprise / No free tier | $15M+ Val |
+| **[Chattermill](https://chattermill.com/)** | Customer feedback analytics platform with AI insights and sentiment analysis. | Custom Enterprise / No free tier | $10M+ Val |
+| **[Dopt](https://www.dopt.com/)** | Product guidance and feature adoption platform with AI-powered insights. | Starts ~$100/mo / Free tier: up to 1,000 active users | $10M+ Val |
+| **[Agnost AI](https://agnost.ai/)** | AI observability and evaluation platform for monitoring LLM applications in production. | Contact for pricing / No permanent free tier | Early Stage |
 
 ## Open-Source GitHub Projects
 
