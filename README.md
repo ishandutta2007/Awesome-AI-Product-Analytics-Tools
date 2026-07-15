@@ -2,6 +2,12 @@
 <img src="assets/banner.svg" alt="Banner" width="100%" />
 </div>
 
+
+<div align="center" id="badges-container">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
 # Awesome-AI-Product-Analytics-Tools
 
 <!-- SEO Keywords: AI product analytics, LLM observability, prompt testing, evaluation, machine learning monitoring, GPT analytics, generative AI tools, LLM tracing -->
