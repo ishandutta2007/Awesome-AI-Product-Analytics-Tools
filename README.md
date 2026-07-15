@@ -3,7 +3,7 @@
 </div>
 
 # Awesome-AI-Product-Analytics-Tools
-## Top AI Product Analytics Ecosystem
+## 🚀 Top AI Product Analytics Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on LLM Observability, Evaluation, Tracing & Product Insights*  
@@ -17,13 +17,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📋 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
 ### Core Platforms (AI Product Analytics)
 
@@ -41,7 +41,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Dopt](https://www.dopt.com/)** | Product guidance and feature adoption platform with AI-powered insights. | Starts ~$100/mo / Free tier: up to 1,000 active users | $10M+ Val |
 | **[Agnost AI](https://agnost.ai/)** | AI observability and evaluation platform for monitoring LLM applications in production. | Contact for pricing / No permanent free tier | Early Stage |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 ### Dedicated AI Product Analytics & Observability Tools
 
@@ -82,7 +82,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom observability**: Combine **Langfuse**, **Phoenix**, **OpenLLMetry**, and **OpenTelemetry** with **Grafana** for complete open-source AI product analytics.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -91,7 +91,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - LLM observability is critical for production applications. Combine multiple tools for best results.
