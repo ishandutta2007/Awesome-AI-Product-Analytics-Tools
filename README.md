@@ -41,35 +41,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated AI Product Analytics & Observability Tools
 
-- **[Langfuse](https://github.com/langfuse/langfuse)**  
-  Open-source LLM engineering platform for tracing, evaluation, and observability with beautiful dashboards.
-
-- **[Phoenix (Arize)](https://github.com/Arize-ai/phoenix)**  
-  Open-source AI observability platform for tracing, evaluating, and monitoring LLM applications.
-
-- **[OpenLLMetry](https://github.com/traceloop/openllmetry)**  
-  Open-source observability for LLM applications with auto-instrumentation.
-
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)**  
-  Open-source LLM output testing and evaluation framework.
-
-- **[DeepEval](https://github.com/confident-ai/deepeval)**  
-  Open-source evaluation framework for LLM outputs with RAGAs and custom metrics.
-
-- **[TruLens](https://github.com/truera/trulens)**  
-  Open-source library for evaluating and tracking LLM applications.
-
-- **[Helicone](https://github.com/helicone/helicone)**  
-  Open-source LLM observability platform with caching, rate limiting, and analytics.
-
-- **[LangSmith Open Alternatives](https://github.com/search?q=langsmith+open+source)**  
-  Community-driven tracing and evaluation tools inspired by LangSmith.
-
-- **[MLflow](https://github.com/mlflow/mlflow)**  
+- **[MLflow](https://github.com/mlflow/mlflow)** [![Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
   Open-source platform for managing the ML lifecycle including LLM evaluation and tracking.
 
-- **[Weights & Biases (self-hosted)](https://github.com/wandb/wandb)**  
+- **[Weights & Biases (self-hosted)](https://github.com/wandb/wandb)** [![Stars](https://img.shields.io/github/stars/wandb/wandb?style=social&color=white)](https://github.com/wandb/wandb/stargazers)  
   Open-source components for experiment tracking and LLM observability.
+
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+  Open-source LLM engineering platform for tracing, evaluation, and observability with beautiful dashboards.
+
+- **[Phoenix (Arize)](https://github.com/Arize-ai/phoenix)** [![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+  Open-source AI observability platform for tracing, evaluating, and monitoring LLM applications.
+
+- **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+  Open-source observability for LLM applications with auto-instrumentation.
+
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+  Open-source LLM output testing and evaluation framework.
+
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+  Open-source evaluation framework for LLM outputs with RAGAs and custom metrics.
+
+- **[TruLens](https://github.com/truera/trulens)** [![Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+  Open-source library for evaluating and tracking LLM applications.
+
+- **[Helicone](https://github.com/helicone/helicone)** [![Stars](https://img.shields.io/github/stars/helicone/helicone?style=social&color=white)](https://github.com/helicone/helicone/stargazers)  
+  Open-source LLM observability platform with caching, rate limiting, and analytics.
 
 ### Additional Strong Open-Source Options
 
