@@ -1,3 +1,7 @@
+<div align="center">
+<img src="assets/banner.svg" alt="Banner" width="100%" />
+</div>
+
 # Awesome-AI-Product-Analytics-Tools
 ## Top AI Product Analytics Ecosystem
 
